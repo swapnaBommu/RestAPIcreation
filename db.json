@@ -91,11 +91,109 @@
             "img":"" 
         }
     ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 },
-      { "id": 2, "body": "some comment", "postId": 1 }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
+    "appliances": [
+        {
+            "id" : 1,
+            "title":"Butterfly Rapid plus / Rapid Plus 5J 750 W Juicer Mixer Grinder",
+            "price":3299,
+            "img":"https://rukminim2.flixcart.com/image/416/416/ko0d6kw0/mixer-grinder-juicer/0/h/u/plus-butterfly-original-imag2kadbfjzzayj.jpeg?q=70" 
+        },
+        {
+            "id" : 2,
+            "title":"Prestige ATLAS PLUS Atlas 750 W Juicer Mixer Grinder (4 Jars, Blue, White)",
+            "price":3100,
+            "img":"https://rukminim2.flixcart.com/image/416/416/xif0q/mixer-grinder-juicer/6/n/1/-original-imagryh3hh3xr2jk.jpeg?q=70" 
+        },
+        {
+            "id" : 3,
+            "title":"Wipro Vesta 1380Watt Compact Steam Iron|Smart light sensor|Overheat protection 1348 W Steam Iron",
+            "price":1279,
+            "img":"https://rukminim2.flixcart.com/image/416/416/xif0q/iron/l/p/m/vesta-1380watt-compact-steam-iron-smart-light-sensor-overheat-original-imaghjywjxpgcehe.jpeg?q=70" 
+        },
+        {
+            "id" : 4,
+            "title":"air-conditioner",
+            "price":35999,
+            "img":"https://rukminim2.flixcart.com/image/200/200/kd4uj680/air-conditioner-new/e/b/q/fkac103siainc-mps-1-split-marq-by-flipkart-inverter-original-imafu44dmprmspwa.jpeg?q=70" 
+        },
+        {
+            "id" : 5,
+            "title":"voltage-stabilizer",
+            "price":6999,
+            "img":"https://rukminim2.flixcart.com/image/200/200/kmthz0w0/voltage-stabilizer/n/h/d/imagno-410-imagno-410-inverter-ac-v-guard-original-imagfmskwxwjg2eh.jpeg?q=70" 
+        },
+        {
+            "id" : 6,
+            "title":"washing-machine",
+            "price":17999,
+            "img":"https://rukminim2.flixcart.com/image/200/200/xif0q/washing-machine-new/t/p/o/-original-imaghuw5zjrz8b66.jpeg?q=70" 
+        },
+        {
+            "id" : 7,
+            "title":"Tower air cooler",
+            "price":19999,
+            "img":"https://rukminim2.flixcart.com/image/200/200/xif0q/air-cooler/c/c/w/956-910-gu3071-3-99-hrk-original-imagtar45jb6psu8.jpeg?q=70" 
+        },
+        {
+            "id" : 8,
+            "title":"water-purifier",
+            "price":15999,
+            "img":"https://rukminim2.flixcart.com/image/200/200/xif0q/water-purifier/p/c/6/ventex-b-cr-copper-alk-ro-uv-tds-automatic-electrical-borewell-original-imagmpygyhqp36hq.jpeg?q=70" 
+        },
+        {
+            "id" : 9,
+            "title":"electric-kettle",
+            "price":16999,
+            "img":"https://rukminim2.flixcart.com/image/150/150/xif0q/electric-kettle/l/1/f/eco-electric-kettle-1-5-ltr-kan-ek-1-5-kreme-original-imagrnepyzgtphtj.jpeg?q=70" 
+        },
+        {
+            "id" : 10,
+            "title":"sandwich-maker",
+            "price":7999,
+            "img":"https://rukminim2.flixcart.com/image/150/150/ks3jjbk0/sandwich-maker/3/r/d/maxxi-club-toast-n-grill-plus-sandwich-maker-genova-original-imag5qhgwtyzgbbd.jpeg?q=70" 
+        },
+        {
+            "id" : 11,
+            "title":"electric-cooker",
+            "price":5999,
+            "img":"https://rukminim2.flixcart.com/image/150/150/kkh6zrk0/electric-cooker/h/e/n/rc18gs2-rc18gs2-usha-original-imafztgzbqk7dghj.jpeg?q=70" 
+        },
+        {
+            "id" : 12,
+            "title":"wet-grinder",
+            "price":15999,
+            "img":"https://rukminim2.flixcart.com/image/150/150/l1mh7rk0/wet-grinder/p/a/l/pwg-09-prestige-2-original-imagd5hvchgcqkv4.jpeg?q=70" 
+        },
+        {
+            "id" : 13,
+            "title":"refrigerator",
+            "price":17890,
+            "img":"https://rukminim2.flixcart.com/image/416/416/xif0q/refrigerator-new/d/9/e/-original-imagnjywkah7yfsw.jpeg?q=70" 
+        },
+        {
+            "id":14,
+            "title":"water-geyser",
+            "price":8999,
+            "img":"https://rukminim2.flixcart.com/image/312/312/xif0q/water-geyser/y/y/3/-original-imagrmcgegj3heyh.jpeg?q=70"
+        },
+        {
+            "id":15,
+            "title":"dining-set",
+            "price":28460,
+            "img":"https://rukminim2.flixcart.com/image/416/416/xif0q/dining-set/f/i/g/-original-imagqctdywgu7yyt.jpeg?q=70"
+        },
+        {
+            "id" : 16,
+            "title":"Sofa",
+            "price":17999,
+            "img":" https://rukminim2.flixcart.com/image/416/416/xif0q/sofa-sectional/7/s/k/symmetrical-69-85-aqua-blue-182-626-velvet-no-38-denoaquablue3-original-imagmm8evxyr2uv2.jpeg?q=70" 
+        },
+        {
+            "id" : 17,
+            "title":"gas-stove",
+            "price":2999,
+            "img":"https://rukminim2.flixcart.com/image/416/416/xif0q/gas-stove/y/h/g/-original-imagrzvnkumdbcw5.jpeg?q=70" 
+        }
+       
+    ]
   }
