@@ -1,8 +1,95 @@
 {
-    "posts": [
-      { "id": 1, "title": "Post 1" },
-      { "id": 2, "title": "Post 2" },
-      { "id": 3, "title": "Post 3" }
+    "mobiles": [
+        {
+            "id" : 1,
+            "title":"REDMI 12",
+            "price":9999,
+            "img":"https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/k/j/n/-original-imags37gyajqxkgp.jpeg?q=70"
+        },
+        {
+            "id" : 2,
+            "title":"MOTOROLA G32",
+            "price":11999,
+            "img":"https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/h/a/k/-original-imagqx45wnzbh25s.jpeg?q=70"
+        },
+        {
+            "id" : 3,
+            "title":"vivo V27 5G",
+            "price":32999,
+            "img":"https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/b/f/m/-original-imagna3ezkdusyrz.jpeg?q=70"
+        },
+        {
+            "id" : 4,
+            "title":"APPLE iPhone 11 ",
+            "price":37999,
+            "img":"https://rukminim2.flixcart.com/image/416/416/k2jbyq80pkrrdj/mobile-refurbished/k/y/d/iphone-11-256-u-mwm82hn-a-apple-0-original-imafkg25mhaztxns.jpeg?q=70" 
+        },
+        {
+            "id" : 5,
+            "title":"SAMSUNG Galaxy A14 5G",
+            "price":17999,
+            "img":"https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/v/l/g/-original-imagmefctrqmqjrp.jpeg?q=70" 
+        },
+        {
+            "id" : 6,
+            "title":"POCO C55",
+            "price":14999,
+            "img":"https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/y/9/g/-original-imagnfzyhh8gz8sd.jpeg?q=70" 
+        },
+        {
+            "id" : 7,
+            "title":"realme 10",
+            "price":23000,
+            "img":"https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/1/7/l/-original-imaghgcj2z5cfugg.jpeg?q=70" 
+        },
+        {
+            "id" : 8,
+            "title":"Google Pixel 7a",
+            "price":36999,
+            "img":"https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/z/b/d/-original-imagpgx48f4szdvf.jpeg?q=70" 
+        },
+        {
+            "id" :9 ,
+            "title":"OPPO Reno10 Pro 5G",
+            "price":11000,
+            "img":"https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/p/e/n/-original-imagtcrvbxsnehqe.jpeg?q=70" 
+        },
+        {
+            "id" :10 ,
+            "title":"MOTOROLA Edge 40 ",
+            "price":14000,
+            "img":"https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/2/m/o/edge-40-pay40030in-motorola-original-imagpqzchzhg6fex.jpeg?q=70" 
+        },
+        {
+            "id" :11 ,
+            "title":"Infinix HOT 30i",
+            "price":15999,
+            "img":"https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/w/v/b/-original-imagz3cuzzsyh8ud.jpeg?q=70" 
+        },
+        {
+            "id" : 12,
+            "title":"",
+            "price":17999,
+            "img":"" 
+        },
+        {
+            "id" : 13,
+            "title":"",
+            "price":999,
+            "img":"" 
+        },
+        {
+            "id" : 14,
+            "title":"",
+            "price":15999,
+            "img":"" 
+        },
+        {
+            "id" : 15,
+            "title":"",
+            "price":16999,
+            "img":"" 
+        }
     ],
     "comments": [
       { "id": 1, "body": "some comment", "postId": 1 },
